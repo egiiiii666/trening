@@ -5,4 +5,4 @@
 5.code examples missing)
 6.i have a htmlacademy courses certificate, i have 7-ku at codewars account/
 7.i stady at Belarusian National Technical University,i am taking rs school courses
-8.i am takig simpler english courses 
+8.i am takig simpl english courses 
